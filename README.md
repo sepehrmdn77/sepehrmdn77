@@ -11,14 +11,10 @@
 ---
 
 🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker, Kubernetes and Portainer.
+🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
-</p>
-
-🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications.
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif"/>
 </p>
 
 📍 Currently available for freelance DevOps opportunities via 🇫🇮 [Eezy.fi](https://www.eezy.fi)
