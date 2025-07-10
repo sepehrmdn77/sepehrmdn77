@@ -28,19 +28,22 @@
 ### 🛠️ Technologies and Tools I use:
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Light.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original-wordmark.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" height="40" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
 
