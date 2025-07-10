@@ -43,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
 </p>
 
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 ---
 
 ### 📦 Projects and Portfolio
