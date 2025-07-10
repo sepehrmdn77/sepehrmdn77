@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sepehr</h1>
-<h3 align="center">🚀 DevOps Engineer based in Finland 🇫🇮 | CI/CD • Docker • Ansible • Terraform • Python • Traefik</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<h1 align="center">I'm Sepehr</h1>
+<h3 align="center">♾️⚙️ DevOps Engineer based in Finland 🇫🇮</h3>
+<h3 align="center"> CI/CD • Docker • Kubernetes • Ansible • Terraform • Python • Reverse-proxy • API </h3>
 
 ---
 
@@ -23,6 +27,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ansible/ansible-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
 </p>
 
 ---
