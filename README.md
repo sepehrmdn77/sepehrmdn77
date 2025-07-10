@@ -6,7 +6,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
 </p>
 <h3 align="center">♾️⚙️ DevOps Engineer based in Finland 🇫🇮</h3>
-<h3 align="center"> CI/CD • Docker • Kubernetes • Ansible • Terraform • Python • Reverse-proxy • API </h3>
+<h3 align="center"> CI/CD • Docker • Kubernetes • Ansible • Terraform • Python • Flet • Reverse-proxy • API </h3>
 
 ---
 
@@ -29,6 +29,7 @@
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" height="40" />
@@ -43,9 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elasticsearch-Dark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kibana/kibana-original.svg" height="40" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/traefikproxy/traefikproxy-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/yaml/yaml-original.svg" height="40" />
 
 </p>
 
