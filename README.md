@@ -10,7 +10,12 @@
 
 ---
 
-🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker & Portainer.
+🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker, Kubernetes and Portainer.
+
+<h1 align="center">I'm Sepehr</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
+</p>
 
 🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications.
 
