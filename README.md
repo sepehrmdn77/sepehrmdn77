@@ -27,6 +27,7 @@
 
 ### 🛠️ Technologies and Tools I use:
 <p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Light.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" />
@@ -42,6 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/elasticsearch/elasticsearch-original-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
+
 </p>
 
 ---
