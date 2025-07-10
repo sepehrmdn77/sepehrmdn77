@@ -58,9 +58,9 @@
 ### 📦 Projects and Portfolio
 
 - 🔧 [Ansible Assistant](https://github.com/sepehrmdn77/ansible_assistant) – A GUI-based automation tool built with Flet and Ansible for remote server provisioning.
-- 🐳 [Dockerized CMS Infrastructure](https://github.com/sepehrmdn77) – Production-grade deployment using Docker, Traefik, Portainer, and GitHub Actions.
+- 🐳 Dockerized CMS Infrastructure (Cooperating with Misan team) – Production-grade deployment using Docker, Traefik, Portainer, and GitHub Actions.
 - 🔁 CI/CD Pipelines with GitHub Actions and GitLab CI
-- 📊 Monitoring with Grafana, Fluent Bit & Loki (in progress)
+- 📊 Monitoring with ELK stack (in progress)
 
 ---
 
