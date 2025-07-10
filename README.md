@@ -2,6 +2,9 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxMzc2MjIsIm5iZiI6MTc1MjEzNzMyMiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDA4NDg0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YmUwODhkYjJhY2I0NGE3ZGQ4NTcyMGRhZWEwNzQ5NDdlZDVlNGM3YjkzYTA4MGM3MTA1NzAzYTYwNWEyNTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2aidN5XUay6_Vs36pL0zdNetfePKRXvkvYoYW8TxoJQ"/>
 </p>
 <h1 align="center">I'm Sepehr</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
+</p>
 <h3 align="center">♾️⚙️ DevOps Engineer based in Finland 🇫🇮</h3>
 <h3 align="center"> CI/CD • Docker • Kubernetes • Ansible • Terraform • Python • Reverse-proxy • API </h3>
 
