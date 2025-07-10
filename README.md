@@ -12,15 +12,19 @@
 
 🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker, Kubernetes and Portainer.
 
-<h1 align="center">I'm Sepehr</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
 </p>
 
 🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif"/>
+</p>
 
 📍 Currently available for freelance DevOps opportunities via 🇫🇮 [Eezy.fi](https://www.eezy.fi)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/>
+</p>
 ---
 
 ### 🛠️ Technologies and Tools I use:
@@ -55,6 +59,9 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
 ---
 
 ### 📫 Contact Me
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"/>
+</p>
 
 - 💼 LinkedIn: [linkedin.com/in/sepehr-maadani](https://linkedin.com/in/sepehr-maadani)
 - 📩 Email: sepehrmaadani98@gmail.com
