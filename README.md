@@ -55,12 +55,13 @@
 
 ---
 
-### 📦 Projects and Portfolio
+### 📦 Current Projects and Portfolio
 
 - 🔧 [Ansible Assistant](https://github.com/sepehrmdn77/ansible_assistant) – A GUI-based automation tool built with Flet and Ansible for remote server provisioning.
 - 🐳 Dockerized CMS Infrastructure (Cooperating with Misan team) – Production-grade deployment using Docker, Traefik, Portainer, and GitHub Actions.
-- 🔁 CI/CD Pipelines with GitHub Actions and GitLab CI
-- 📊 Monitoring with ELK stack (in progress)
+- 🔧 Infrastructure implementation for both Dev and Prod environments using Terraform and automate configuring using Ansible.
+- 🔁 CI/CD Pipelines with GitHub Actions and GitLab CI.
+- 📊 Monitoring with ELK stack and grafana for Misan team.
 
 ---
 
