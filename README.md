@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
 </p>
 
-📍 Currently available for freelance DevOps opportunities via 🇫🇮 [Eezy.fi](https://www.eezy.fi)
+📍 Currently available for full-time and freelance DevOps opportunities.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif"/>
 </p>
