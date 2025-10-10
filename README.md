@@ -10,9 +10,9 @@
 
 ---
 
-🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker, Kubernetes and Portainer.
+🔧 I'm a DevOps Engineer with real-world experience building CI/CD pipelines, provisioning infrastructure with Ansible & Terraform, and managing containerized services using Docker, Kubernetes and Traefik.
 
-🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications.
+🌐 I help teams automate deployments, monitor infrastructure, and deliver reliable cloud-native applications. My current project brings together backend, frontend, and DevOps in one complete ecosystem.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif"/>
@@ -57,7 +57,8 @@
 
 ### 📦 Current Projects and Portfolio
 
-- 🔧 [Ansible Assistant](https://github.com/sepehrmdn77/ansible_assistant) – A GUI-based automation tool built with Flet and Ansible for remote server provisioning.
+- 🔧 [Resume_Review](https://github.com/DevSepOps/Resume_review/) – A full-stack Python platform for real-time CV feedback powered by FastAPI (backend) and Flet (frontend). Includes CI/CD, Docker, Terraform, Ansible, Traefik, ELK, and Grafana.
+- 🔧 [Ansible Assistant](https://github.com/sepehrmdn77/ansible_assistant/) – A GUI-based automation tool built with Flet and Ansible for remote server provisioning.
 - 🐳 Dockerized CMS Infrastructure (Cooperating with Misan team) – Production-grade deployment using Docker, Traefik, Portainer, and GitHub Actions.
 - 🔧 Infrastructure implementation for both Dev and Prod environments using Terraform and automate configuring using Ansible.
 - 🔁 CI/CD Pipelines with GitHub Actions and GitLab CI.
