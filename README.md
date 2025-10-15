@@ -48,7 +48,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/grafana/grafana-original-wordmark.svg" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/traefikproxy/traefikproxy-original-wordmark.svg" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/traefikproxy/traefikproxy-plain-wordmark.svg" height="40" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/yaml/yaml-original.svg" height="40" />
 
 </p>
