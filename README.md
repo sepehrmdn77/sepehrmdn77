@@ -79,6 +79,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepehrmdn77&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrmdn77&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sepehrmdn77&show_icons=true&theme=radical&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrmdn77&layout=compact&theme=radical&include_all_commits=true" height="160"/>
 </p>
